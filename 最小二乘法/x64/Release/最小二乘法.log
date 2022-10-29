@@ -1,8 +1,0 @@
-﻿  最小二乘法.cpp
-C:\Users\ERuth\source\repos\最小二乘法\最小二乘法\最小二乘法.cpp(64,1): warning C4326: “main”的返回类型应为“int”而非“void”
-  正在生成代码
-  1 of 566 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  已完成代码的生成
-  最小二乘法.vcxproj -> C:\Users\ERuth\source\repos\最小二乘法\x64\Release\最小二乘法.exe
